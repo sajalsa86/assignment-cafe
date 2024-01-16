@@ -1,0 +1,103 @@
+.count-container {
+    margin-left: 20px;
+    position: sticky;
+    top: 150px;
+}
+
+.time-box {
+    border-radius: 8px;
+    border: 1px solid #6047EC;
+    background: rgba(96, 71, 236, 0.10);
+    width: 100%;
+    /* Adjusted width for responsiveness */
+    max-width: 411px;
+    /* Added max-width for larger screens */
+    height: 80px;
+    flex-shrink: 0;
+}
+
+.time-box h3 {
+    text-align: center;
+    color: #6047EC;
+    font-family: Exo 2;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 160%;
+    /* 38.4px */
+}
+
+.bookmark-container {
+    margin-top: 25px;
+    padding: 20px;
+    width: 411px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: rgba(17, 17, 17, 0.05);
+}
+
+.bookmark-container h3 {
+    color: #111;
+    font-family: Exo 2;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 160%;
+    /* 38.4px */
+}
+
+.marked-blogs p {
+    width: 351px;
+    height: 98px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #FFF;
+    color: #111;
+    font-family: Exo 2;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 160%;
+}
+
+/* Media query for small screens (e.g., mobile devices) */
+@media (max-width: 767px) {
+    .count-container {
+        margin-left: 0;
+        position: static;
+    }
+
+    .time-box,
+    .bookmark-container {
+        width: 100%;
+        /* Adjusted width for responsiveness */
+        max-width: none;
+        /* Removed max-width for smaller screens */
+    }
+
+    .marked-blogs p {
+        width: 100%;
+        /* Adjusted width for responsiveness */
+    }
+}
+
+/* Media query for extra small screens (e.g., extra small mobile devices) */
+@media (max-width: 480px) {
+    .count-container {
+        position: static;
+    }
+
+    .time-box,
+    .bookmark-container {
+        padding: 10px;
+        /* Adjusted padding for smaller screens */
+    }
+
+    .marked-blogs p {
+        font-size: 16px;
+        /* Adjusted font size for smaller screens */
+    }
+}

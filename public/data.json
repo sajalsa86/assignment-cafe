@@ -1,0 +1,38 @@
+[
+    {
+        "information": "This Block created by md Suzan",
+        "id": 1,
+        "authorName": "Md suzan ali",
+        "blogTitle": "How to get your first job as a self-taught programmer",
+        "images": "https://media.istockphoto.com/id/1047259374/photo/programming-source-code-abstract-background.jpg?s=1024x1024&w=is&k=20&c=EUIT1eazlH-IFNzY7gKwk-Bj0RXiBd2R_k8s5Sq6FCU=",
+        "author": "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/413029343_122101684298163300_6591889594294109044_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=1aIyZbwG_roAX_p2qjX&_nc_ht=scontent.fdac8-1.fna&oh=00_AfAc5f2jDfScwrrHqSxC_itJTABm68h9BjxoUAgOTIIiXw&oe=659C891A",
+        "readTime": 5
+    },
+    {
+        "information": "This Block created by Mizanur rahman",
+        "id": 2,
+        "authorName": "Mizanur rahman",
+        "blogTitle": "How to get your first job as a self-taught programmer",
+        "images": "https://media.istockphoto.com/id/1147352265/photo/busy-working-day-young-bearded-trader-in-eyeglasses-working-with-laptop-while-sitting-in-his.jpg?s=1024x1024&w=is&k=20&c=JQ8hFhFG9QwafucgIVJ8sgdgLcyEfmToL3RF2qhR8EE=",
+        "author": "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/402608090_2102754696723455_2607368639327994942_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=lgn2L2USHhQAX_JDkFS&_nc_ht=scontent.fdac8-1.fna&oh=00_AfD-Om4mO0Oo1fk8pRgnKfC5gbH5xYyFakOM_gZkr1v7Vg&oe=659E262F",
+        "readTime": 10
+    },
+    {
+        "information": "This Block created by Asadullah al Galib",
+        "id": 3,
+        "authorName": "Asadullah al Galib",
+        "blogTitle": "How to get your first job as a self-taught programmer",
+        "images": "https://media.istockphoto.com/id/1439425791/photo/digital-technology-software-development-concept-coding-programmer-working-on-laptop-with.jpg?s=1024x1024&w=is&k=20&c=Z8b4zJw5DTcwI2Avf--78MsZPECrH3QyYZFla_w8WnU=",
+        "author": "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/326981493_1384718702342242_2984191139572333044_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=ouwdzfzuADcAX_mm1wc&_nc_ht=scontent.fdac8-1.fna&oh=00_AfCe8wIkVw0NZOwBBGo6SyluGCESNBbN9VbNh4V5X2lW1Q&oe=65A9BF4D",
+        "readTime": 15
+    },
+    {
+        "information": "This Block created by Ahsan Habib",
+        "id": 4,
+        "authorName": "Ahsan Habib",
+        "blogTitle": "How to get your first job as a self-taught programmer",
+        "images": "https://media.istockphoto.com/id/1427143523/photo/two-developer-computer-programmer-working-together-coding-on-laptop-computer-at-home-office.jpg?s=1024x1024&w=is&k=20&c=Rfjm0m89hFbourYUEwiLylU0NvuMrztPGOtRqARZ_OY=",
+        "author": "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/415014619_3650348475243621_3378442517189757837_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=Xi-wR6UrJjsAX-gSRe8&_nc_ht=scontent.fdac8-1.fna&oh=00_AfAYrm8yvUr0nzrdH5ofBdx9EwuVlRfQrlzQ1ALdnxEwow&oe=659DF6E4",
+        "readTime": 20
+    }
+]

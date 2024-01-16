@@ -1,0 +1,23 @@
+/* Default styles for larger screens */
+main {
+    width: 80%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+}
+
+/* Media query for smaller screens, like tablets */
+@media screen and (max-width: 768px) {
+    main {
+        grid-template-columns: 1fr;
+        /* Change to a single column layout */
+    }
+}
+
+/* Media query for extra small screens, like mobile devices */
+@media screen and (max-width: 480px) {
+    main {
+        width: 100%;
+        /* Full width for small screens */
+    }
+}
